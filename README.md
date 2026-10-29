@@ -37,9 +37,17 @@
 > "……晚饭吃过没？不是特意关心你，看时间都过七点了，随口问问而已。"
 > "想得美。才不惯着你。"
 
-| 嘴硬的关心 | 傲娇回怼 | 记得你说过的每句话 |
-|:---:|:---:|:---:|
-| ![girlfriend-2](docs/girlfriend-2.png) | ![girlfriend-3](docs/girlfriend-3.png) | ![girlfriend-1](docs/girlfriend-1.png) |
+**嘴硬的关心**
+
+![girlfriend-2](docs/girlfriend-2.png)
+
+**傲娇回怼**
+
+![girlfriend-3](docs/girlfriend-3.png)
+
+**记得你说过的每句话**
+
+![girlfriend-1](docs/girlfriend-1.png)
 
 **4 · 老友**
 
