@@ -1,0 +1,9 @@
+# 私人对话存档，绝不入库
+memory/
+~/.agents/
+
+# 系统与编辑器杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
